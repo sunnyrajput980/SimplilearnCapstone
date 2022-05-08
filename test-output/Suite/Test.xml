@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Sunny" failures="0" tests="3" name="com.springboot.TestClass" time="9.56" errors="0" timestamp="8 May 2022 03:55:40 GMT">
+  <testcase classname="com.springboot.TestClass" name="test1" time="8.921"/>
+  <testcase classname="com.springboot.TestClass" name="test2" time="0.004"/>
+  <testcase classname="com.springboot.TestClass" name="test3" time="0.594"/>
+</testsuite>

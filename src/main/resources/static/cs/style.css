@@ -1,0 +1,14 @@
+
+.search-container{
+	positon:relative;
+}
+
+ .search-result{
+   position:absolute;
+   background:white;
+   width:60%;
+   padding:10px;
+   border:1px solid grey;
+   display:none;
+ }
+ 
